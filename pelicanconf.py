@@ -30,7 +30,7 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
-THEME = "/Users/parisagandomkaryarandi/Documents/ghpages/pelican-themes/Flex"
+THEME = "/Users/parisagandomkaryarandi/Documents/ghpages/ParisaGY.github.io-src/pelican-themes/Flex"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
